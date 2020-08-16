@@ -1,0 +1,14 @@
+{
+  "name": "git-challenge",
+  "version": "1.0.0",
+  "description": "A Git Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "devDependencies": {
+  }
+}
